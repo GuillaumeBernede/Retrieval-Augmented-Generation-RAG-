@@ -1,9 +1,6 @@
-# My PDF Retrieval Augmented Generation project
+## Project Overview
 This project implement a **Retrieval-Augmented Generation (RAG)** system using [LangChain](https://www.langchain.com/) and model hosted on [Hugging Face Hub](https://huggingface.co/)
 
----
-
-## Project Overview
 The notebook explores different ways to load documents (TXT & PDF), generate embeddings, store them in a vector database, and query them using multiple Large Language Models (LLMs). Finally, a simple user interface was built with **Gradio**.
 
 ---
